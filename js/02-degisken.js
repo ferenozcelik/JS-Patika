@@ -57,3 +57,4 @@ console.log("number1 new type:", typeof number1);
 let number2 = 70;
 number2 = number2.toString();
 console.log("number2 type:", typeof number2);
+console.log("eren");
